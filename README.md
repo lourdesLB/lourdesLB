@@ -21,6 +21,9 @@ I am always eager to evolve and grow, both personally and professionally. Beyond
       <a href="https://scholar.google.es/citations?hl=es&user=sNJxmgMAAAAJ" target="blank"><img align="center"
          src="https://img.shields.io/badge/Scholar-4285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white"
          alt="scholar" height="30"/></a>
+      <a href="https://prisma.us.es/investigador/9118" target="blank"><img align="center"
+         src="https://img.shields.io/badge/University%20of%20Seville-%F0%9F%8E%93-%231DA1F2.svg?style=for-the-badge&logoColor=white"
+         alt="university of seville" height="30"/></a>
       <br>
     </p>
 </div>
@@ -58,7 +61,7 @@ I am always eager to evolve and grow, both personally and professionally. Beyond
 
 </div>
 
-## Recent publications 📚
+## Noticeable publications 📚
 
 <div style="border: 1px solid #6b6b6b; border-radius: 5px; padding: 15px;">
     <h3 style="margin-bottom: 10px;">A Feature Selection and Association Rule Approach to Identify Genes Associated with Metastasis and Low Survival in Sarcoma</h3>
@@ -67,7 +70,14 @@ I am always eager to evolve and grow, both personally and professionally. Beyond
     <p><a href="https://link.springer.com/chapter/10.1007/978-3-031-40725-3_62">Read more</a></p>
 </div>
 
+<div style="border: 1px solid #6b6b6b; border-radius: 5px; padding: 15px;">
+    <h3 style="margin-bottom: 10px;">Multi-Objective Lagged Feature Selection Based on Dependence Coefficient for Time-Series Forecasting</h3>
+    <p>National Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2024)</p>
+    <p><strong>Awarded as second best paper of TAMIDA Symposium.</strong> This paper presents a novel feature selection approach that integrates a statistical metric based on the Conditional Dependence Coefficient with a multi-objective evolutionary algorithm. Applied to the prediction of multivariate time-series in fields such as air quality forecasting, electricity demand, urban traffic management, and preventive maintenance of systems, the method demonstrates strong performance and significant reduction in model complexity.</p>
+    <p><a href="https://link.springer.com/chapter/10.1007/978-3-031-62799-6_9">Read more</a></p>
+</div>
 
+You can find the complete list of my works in my [Scholar profile](https://scholar.google.es/citations?user=sNJxmgMAAAAJ&hl=es).
 
 <!-- 
 ## Github activity
