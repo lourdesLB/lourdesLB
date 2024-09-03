@@ -9,24 +9,25 @@ Following this research role, I am a Graduate in Computer Engineering and also i
 I am always eager to evolve and grow, both personally and professionally. Beyond my profound interest in research, I always keep an open eye for new opportunities to learn and acquire new skills. That is why I also find a great interest in other areas such as Software Development.
 
 
-## Find me 🌐 <img align="left" width="150" height="150" src="./octocat-lourdes.png">
-- More about me and my interest on <a href="https://www.linkedin.com/in/lourdes-linares-barrera/">Linkedin</a>
-- Research profile on <a href="https://scholar.google.es/citations?hl=es&user=sNJxmgMAAAAJ">Scholar</a>, <a href="https://www.researchgate.net/profile/Maria-Lourdes-Barrera">Research Gate</a> and <a href="https://prisma.us.es/investigador/9118">University of Seville Portal</a>.
-
-<div>
-    <p align="center">
-      <a href="https://www.linkedin.com/in/lourdes-linares-barrera/" target="blank"><img align="center"
+## Find me 🌐 
+<!-- <img align="left" width="150" height="150" src="./octocat-lourdes.png"> -->
+- More about me and my interest on <a href="https://www.linkedin.com/in/lourdes-linares-barrera/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="linkedin" height="30"/></a>
-      <a href="https://scholar.google.es/citations?hl=es&user=sNJxmgMAAAAJ" target="blank"><img align="center"
-         src="https://img.shields.io/badge/Scholar-4285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white"
-         alt="scholar" height="30"/></a>
-      <a href="https://prisma.us.es/investigador/9118" target="blank"><img align="center"
-         src="https://img.shields.io/badge/University%20of%20Seville-%F0%9F%8E%93-%231DA1F2.svg?style=for-the-badge&logoColor=white"
-         alt="university of seville" height="30"/></a>
-      <br>
-    </p>
-</div>
+         alt="linkedin" height="27"/></a>
+
+<div style="margin-top: 10px;"></div>
+
+- Research profiles on 
+        <a href="https://scholar.google.es/citations?hl=es&user=sNJxmgMAAAAJ" target="blank"><img align="center"
+        src="https://img.shields.io/badge/Scholar-4285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white"
+        alt="scholar" height="27"/></a> 
+        <a href="https://www.researchgate.net/profile/Maria-Lourdes-Barrera" target="blank"><img align="center"
+        src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=researchgate&logoColor=white"
+        alt="researchgate" height="27"/></a>
+        <a href="https://prisma.us.es/investigador/9118" target="blank"><img align="center"
+        src="https://img.shields.io/badge/%F0%9F%8E%93%20University%20of%20Seville-%231DA1F2.svg?style=for-the-badge&logoColor=white"
+        alt="university of seville" height="27"/>
+        </a>
 
 ## Hard skills 💻
 <div align ="center">
