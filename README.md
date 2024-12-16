@@ -2,11 +2,13 @@
 
 <img src="./canva-lourdes.png">
 
-I am a passionate student and researcher in Deep Learning and Data Science, currently working part-time with the [Minerva research team](https://grupo.us.es/minerva/) at University of Seville since last year. My research encompasses areas such as Machine Learning, Deep Learning, Time Series Forecasting, and Explainable Artificial Intelligence (XAI). While I keep learning about Computer Vision and Natural Language Processing.
+I am passionate about Data and Artificial Intelligence, driven by a strong commitment to continuous learning and innovation.
 
-Following this research role, I am a Graduate in Computer Engineering and also in Mathematics, where I gained a solid foundation in Optimization and Artificial Intelligence. My academic journey is marked by a continuous drive to align my education with my passion for data science and research. I am currently enhancing my academic credentials with a Master's in Data Engineering and preparing to embark on a Doctorate.
+My academic journey reflects my dedication to excellence. I hold dual degrees in Computer Engineering and Mathematics, graduating as the top student in my class. This rigorous education provided me with a strong foundation in Optimization and Artificial Intelligence. To further specialize, I pursued a Master's degree in Software and Data Engineering, where I deepened my expertise in data-driven technologies.
 
-I am always eager to evolve and grow, both personally and professionally. Beyond my profound interest in research, I always keep an open eye for new opportunities to learn and acquire new skills. That is why I also find a great interest in other areas such as Software Development.
+Since 2023, while finishing my studies, I have been a part-time researcher with the [Minerva research team](https://grupo.us.es/minerva/) at the University of Seville, where my work focuses on Machine Learning, Deep Learning, Time Series Forecasting, and Explainable Artificial Intelligence (XAI). Throughout this time, I have actively contributed to numerous research projects, earning multiple awards.
+
+I am deeply committed to personal and professional growth, constantly seeking new opportunities to expand my knowledge and skills. While my core passion lies in Data and AI, I also maintain a strong interest in Software Development, Statistics, and other emerging fields.
 
 
 ## Find me 🌐 
@@ -61,29 +63,3 @@ I am always eager to evolve and grow, both personally and professionally. Beyond
 ![AMPL](https://img.shields.io/badge/AMPL-004D7F?style=for-the-badge&logoColor=white)
 
 </div>
-
-## Noticeable publications 📚
-
-<div style="border: 1px solid #6b6b6b; border-radius: 5px; padding: 15px;">
-    <h3 style="margin-bottom: 10px;">A Feature Selection and Association Rule Approach to Identify Genes Associated with Metastasis and Low Survival in Sarcoma</h3>
-    <p>International Conference on Hybrid Artificial Intelligence Systems (HAIS 2023)</p>
-    <p>This work proposes a methodology that combines preprocessing, feature selection and association rule mining to identify relevant genes and significant relationships in biological data from sarcoma patients.</p>
-    <p><a href="https://link.springer.com/chapter/10.1007/978-3-031-40725-3_62">Read more</a></p>
-</div>
-
-<div style="border: 1px solid #6b6b6b; border-radius: 5px; padding: 15px;">
-    <h3 style="margin-bottom: 10px;">Multi-Objective Lagged Feature Selection Based on Dependence Coefficient for Time-Series Forecasting</h3>
-    <p>National Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2024)</p>
-    <p><strong>Awarded as second best paper of TAMIDA Symposium.</strong> This paper presents a novel feature selection approach that integrates a statistical metric based on the Conditional Dependence Coefficient with a multi-objective evolutionary algorithm. Applied to the prediction of multivariate time-series in fields such as air quality forecasting, electricity demand, urban traffic management, and preventive maintenance of systems, the method demonstrates strong performance and significant reduction in model complexity.</p>
-    <p><a href="https://link.springer.com/chapter/10.1007/978-3-031-62799-6_9">Read more</a></p>
-</div>
-
-You can find the complete list of my works in my [Scholar profile](https://scholar.google.es/citations?user=sNJxmgMAAAAJ&hl=es).
-
-<!-- 
-## Github activity
-<div align="center">
-  
-  ![lourdesLB Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lourdesLB&theme=nord_bright)
-  
-</div> -->
